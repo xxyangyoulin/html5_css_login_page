@@ -5,5 +5,5 @@
 
 ---
 
-<img src="https://github.com/mnnyang/html5_css_login_page/blob/master/screen/sf.gif" style="width=400px"/>
+<img src="https://github.com/mnnyang/html5_css_login_page/blob/master/screen/sf.gif" width="500" height="auto"/>
 
